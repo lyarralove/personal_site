@@ -1,12 +1,10 @@
 <script>
-import customButton from './customButton.vue';
 import navbar from "./nav.vue"; 
 import about from "./About.vue";
 import scrollText from "./scrollText.vue";
 export default {
   components: {
     navbar,
-    customButton,
     about,
     scrollText
   }

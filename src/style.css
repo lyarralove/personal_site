@@ -17,13 +17,13 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100%; 
-  overflow: hidden; /* Prevent scrolling to avoid overflow */
+  overflow: hidden; 
 }
 
 #app {
-  height: 100vh; /* Ensure the app takes up the full height of window */
-  width: 100vw; /* Ensure the app takes up the full width of window */
-  display: flex; /* Maintain flex behavior for layout */
+  height: 100vh; 
+  width: 100vw; 
+  display: flex; 
 }
 
 @media (prefers-color-scheme: light) {

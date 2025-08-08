@@ -1,12 +1,10 @@
 <script>
 import customButton from './customButton.vue';
-import front from './zineFront.vue';
 import navbar from './nav.vue';
 export default {
   name:"about",
   components: {
     navbar,
-    front,
     customButton
   }
 }

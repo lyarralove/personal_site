@@ -1,7 +1,7 @@
 //import './assets/main.css'
 
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from "vue"
+import App from "./App.vue"
 import HomePage from './components/HomePage.vue'
 import About from './components/AboutPage.vue'
 import Writing from './components/Writings.vue'
